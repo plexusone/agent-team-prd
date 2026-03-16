@@ -1,7 +1,7 @@
 package prd
 
 import (
-	"github.com/agentplexus/structured-evaluation/evaluation"
+	"github.com/plexusone/structured-evaluation/evaluation"
 	structuredprd "github.com/grokify/structured-plan/requirements/prd"
 )
 

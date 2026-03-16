@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/agentplexus/agent-team-prd/pkg/prd"
+	"github.com/plexusone/agent-team-prd/pkg/prd"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 )

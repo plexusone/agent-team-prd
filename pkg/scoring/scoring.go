@@ -4,7 +4,7 @@
 package scoring
 
 import (
-	"github.com/agentplexus/agent-team-prd/pkg/prd"
+	"github.com/plexusone/agent-team-prd/pkg/prd"
 )
 
 // Type aliases for backward compatibility.

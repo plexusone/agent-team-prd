@@ -3,7 +3,7 @@ package scoring
 import (
 	"testing"
 
-	"github.com/agentplexus/agent-team-prd/pkg/prd"
+	"github.com/plexusone/agent-team-prd/pkg/prd"
 )
 
 func TestDefaultWeights(t *testing.T) {

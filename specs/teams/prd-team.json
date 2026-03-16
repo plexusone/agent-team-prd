@@ -23,7 +23,7 @@
   ],
   "orchestrator": "prd-lead",
   "workflow": {
-    "type": "dag",
+    "type": "graph",
     "steps": [
       {
         "name": "discovery-problem",

@@ -3,9 +3,9 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/agentplexus/agent-team-prd/pkg/prd"
-	"github.com/agentplexus/agent-team-prd/pkg/scoring"
-	"github.com/agentplexus/agent-team-prd/pkg/views"
+	"github.com/plexusone/agent-team-prd/pkg/prd"
+	"github.com/plexusone/agent-team-prd/pkg/scoring"
+	"github.com/plexusone/agent-team-prd/pkg/views"
 	"github.com/spf13/cobra"
 )
 

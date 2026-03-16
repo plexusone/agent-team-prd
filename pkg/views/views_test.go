@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/agentplexus/agent-team-prd/pkg/prd"
-	"github.com/agentplexus/agent-team-prd/pkg/scoring"
+	"github.com/plexusone/agent-team-prd/pkg/prd"
+	"github.com/plexusone/agent-team-prd/pkg/scoring"
 )
 
 func TestGeneratePMView(t *testing.T) {

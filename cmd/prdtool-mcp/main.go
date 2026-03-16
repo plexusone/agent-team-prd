@@ -18,10 +18,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/agentplexus/agent-team-prd/pkg/prd"
-	"github.com/agentplexus/agent-team-prd/pkg/scoring"
-	"github.com/agentplexus/agent-team-prd/pkg/views"
-	"github.com/agentplexus/mcpkit/runtime"
+	"github.com/plexusone/agent-team-prd/pkg/prd"
+	"github.com/plexusone/agent-team-prd/pkg/scoring"
+	"github.com/plexusone/agent-team-prd/pkg/views"
+	"github.com/plexusone/mcpkit/runtime"
 	"github.com/grokify/structured-plan/schema"
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 )

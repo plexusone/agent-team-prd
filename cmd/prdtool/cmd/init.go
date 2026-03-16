@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/agentplexus/agent-team-prd/pkg/prd"
+	"github.com/plexusone/agent-team-prd/pkg/prd"
 	"github.com/spf13/cobra"
 )
 

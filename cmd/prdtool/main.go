@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/agentplexus/agent-team-prd/cmd/prdtool/cmd"
+	"github.com/plexusone/agent-team-prd/cmd/prdtool/cmd"
 )
 
 func main() {
