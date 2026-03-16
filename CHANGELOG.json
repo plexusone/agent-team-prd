@@ -1,11 +1,42 @@
 {
-  "ir_version": "1.0",
+  "irVersion": "1.0",
   "project": "agent-team-prd",
-  "repository": "https://github.com/agentplexus/agent-team-prd",
+  "repository": "https://github.com/plexusone/agent-team-prd",
   "versioning": "semver",
-  "commit_convention": "conventional",
-  "maintainers": ["agentplexus", "johncwang@gmail.com"],
+  "commitConvention": "conventional",
+  "maintainers": ["plexusone", "johncwang@gmail.com"],
   "releases": [
+    {
+      "version": "v0.4.0",
+      "date": "2026-03-16",
+      "highlights": [
+        { "description": "Migrate GitHub organization from agentplexus to plexusone", "commit": "bd0bddf" },
+        { "description": "Update to structured-plan v0.9.0 with plexusone/structured-evaluation v0.3.0", "commit": "bd0bddf" }
+      ],
+      "changed": [
+        { "description": "Migrate module path from github.com/agentplexus to github.com/plexusone", "commit": "bd0bddf" },
+        { "description": "Update all import paths and documentation URLs for plexusone org", "commit": "bd0bddf" }
+      ],
+      "fixed": [
+        { "description": "Resolve G703 path traversal warning with input validation in deploy.go", "commit": "83de314" },
+        { "description": "Resolve G115 integer overflow warning using fmt.Sprintf in prd_test.go", "commit": "83de314" },
+        { "description": "Fix gofmt formatting issues", "commit": "bd5dc99" }
+      ],
+      "documentation": [
+        { "description": "Add UTF-8 feature icons to README.md", "commit": "04447c0" },
+        { "description": "Update README shields and URLs for plexusone org", "commit": "cd8f096" }
+      ],
+      "dependencies": [
+        { "description": "Update github.com/grokify/structured-plan from v0.8.0 to v0.9.0", "commit": "bd0bddf" },
+        { "description": "Update github.com/plexusone/structured-evaluation to v0.3.0", "commit": "bd0bddf" },
+        { "description": "Update github.com/plexusone/mcpkit to v0.4.0", "commit": "bd0bddf" },
+        { "description": "Update github.com/modelcontextprotocol/go-sdk to v1.4.1", "commit": "74e0742" }
+      ],
+      "infrastructure": [
+        { "description": "Update CI workflows to use shared workflows", "commit": "21ed45f" },
+        { "description": "Rename workflow filenames for specificity", "commit": "ed787e0" }
+      ]
+    },
     {
       "version": "v0.3.0",
       "date": "2026-01-30",

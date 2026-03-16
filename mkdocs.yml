@@ -1,8 +1,8 @@
 site_name: PRD Tool Documentation
 site_description: CLI and AI assistant integrations for Product Requirements Documents
-site_url: https://agentplexus.github.io/agent-team-prd/
-repo_url: https://github.com/agentplexus/agent-team-prd
-repo_name: agentplexus/agent-team-prd
+site_url: https://plexusone.github.io/agent-team-prd/
+repo_url: https://github.com/plexusone/agent-team-prd
+repo_name: plexusone/agent-team-prd
 
 theme:
   name: material
@@ -52,8 +52,13 @@ nav:
       - Kiro IDE: integrations/kiro-ide.md
   - Reference:
       - PRD Schema: reference/prd-schema.md
+  - Releases:
+      - v0.4.0: releases/v0.4.0.md
+      - v0.3.0: releases/v0.3.0.md
+      - v0.2.0: releases/v0.2.0.md
+      - v0.1.0: releases/v0.1.0.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/agentplexus/agent-team-prd
+      link: https://github.com/plexusone/agent-team-prd
