@@ -1,35 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://agentplexus.github.io/agent-team-prd/</loc>
+         <loc>https://plexusone.github.io/agent-team-prd/</loc>
          <lastmod>2026-03-16</lastmod>
     </url>
     <url>
-         <loc>https://agentplexus.github.io/agent-team-prd/installation/</loc>
+         <loc>https://plexusone.github.io/agent-team-prd/installation/</loc>
          <lastmod>2026-03-16</lastmod>
     </url>
     <url>
-         <loc>https://agentplexus.github.io/agent-team-prd/cli/</loc>
+         <loc>https://plexusone.github.io/agent-team-prd/cli/</loc>
          <lastmod>2026-03-16</lastmod>
     </url>
     <url>
-         <loc>https://agentplexus.github.io/agent-team-prd/cli/commands/</loc>
+         <loc>https://plexusone.github.io/agent-team-prd/cli/commands/</loc>
          <lastmod>2026-03-16</lastmod>
     </url>
     <url>
-         <loc>https://agentplexus.github.io/agent-team-prd/cli/examples/</loc>
+         <loc>https://plexusone.github.io/agent-team-prd/cli/examples/</loc>
          <lastmod>2026-03-16</lastmod>
     </url>
     <url>
-         <loc>https://agentplexus.github.io/agent-team-prd/integrations/claude-code/</loc>
+         <loc>https://plexusone.github.io/agent-team-prd/integrations/claude-code/</loc>
          <lastmod>2026-03-16</lastmod>
     </url>
     <url>
-         <loc>https://agentplexus.github.io/agent-team-prd/integrations/kiro-ide/</loc>
+         <loc>https://plexusone.github.io/agent-team-prd/integrations/kiro-ide/</loc>
          <lastmod>2026-03-16</lastmod>
     </url>
     <url>
-         <loc>https://agentplexus.github.io/agent-team-prd/reference/prd-schema/</loc>
+         <loc>https://plexusone.github.io/agent-team-prd/reference/prd-schema/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://plexusone.github.io/agent-team-prd/releases/v0.1.0/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://plexusone.github.io/agent-team-prd/releases/v0.2.0/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://plexusone.github.io/agent-team-prd/releases/v0.3.0/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://plexusone.github.io/agent-team-prd/releases/v0.4.0/</loc>
          <lastmod>2026-03-16</lastmod>
     </url>
 </urlset>
