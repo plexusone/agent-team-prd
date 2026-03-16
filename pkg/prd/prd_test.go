@@ -1,6 +1,7 @@
 package prd
 
 import (
+	"fmt"
 	"os"
 	"path/filepath"
 	"strings"
@@ -39,7 +40,7 @@ func TestGenerateID(t *testing.T) {
 	}
 
 	year := time.Now().Year()
-	expectedPrefix := "PRD-" + string(rune('0'+year/1000)) + string(rune('0'+(year%1000)/100)) + string(rune('0'+(year%100)/10)) + string(rune('0'+year%10))
+	expectedPrefix := fmt.Sprintf("PRD-%d", year)
 	if !strings.HasPrefix(id, expectedPrefix[:8]) {
 		t.Errorf("expected ID to contain current year, got %s", id)
 	}

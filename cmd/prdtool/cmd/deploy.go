@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/spf13/cobra"
 )
@@ -489,12 +490,17 @@ func getMCPServerPath() string {
 }
 
 func findExecutable(name string) (string, error) {
+	// Validate name doesn't contain path separators to prevent path traversal
+	if strings.ContainsAny(name, `/\`) {
+		return "", fmt.Errorf("invalid executable name: %s", name)
+	}
+
 	pathEnv := os.Getenv("PATH")
 	paths := filepath.SplitList(pathEnv)
 
 	for _, dir := range paths {
 		fullPath := filepath.Join(dir, name)
-		if info, err := os.Stat(fullPath); err == nil && !info.IsDir() {
+		if info, err := os.Stat(fullPath); err == nil && !info.IsDir() { // #nosec G703 - name validated above, no path separators allowed
 			return fullPath, nil
 		}
 	}
