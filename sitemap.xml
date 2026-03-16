@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://agentplexus.github.io/agent-team-prd/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://agentplexus.github.io/agent-team-prd/installation/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://agentplexus.github.io/agent-team-prd/cli/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://agentplexus.github.io/agent-team-prd/cli/commands/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://agentplexus.github.io/agent-team-prd/cli/examples/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://agentplexus.github.io/agent-team-prd/integrations/claude-code/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://agentplexus.github.io/agent-team-prd/integrations/kiro-ide/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://agentplexus.github.io/agent-team-prd/reference/prd-schema/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+</urlset>
