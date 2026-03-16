@@ -4,10 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/plexusone/agent-team-prd/pkg/prd"
-	"github.com/plexusone/agent-team-prd/pkg/scoring"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
+
+	"github.com/plexusone/agent-team-prd/pkg/prd"
+	"github.com/plexusone/agent-team-prd/pkg/scoring"
 )
 
 var (

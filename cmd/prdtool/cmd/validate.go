@@ -3,9 +3,10 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/plexusone/agent-team-prd/pkg/prd"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
+
+	"github.com/plexusone/agent-team-prd/pkg/prd"
 )
 
 var validateCmd = &cobra.Command{

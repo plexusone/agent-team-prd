@@ -18,12 +18,13 @@ import (
 	"os"
 	"strings"
 
+	"github.com/grokify/structured-plan/schema"
+	"github.com/modelcontextprotocol/go-sdk/mcp"
+	"github.com/plexusone/mcpkit/runtime"
+
 	"github.com/plexusone/agent-team-prd/pkg/prd"
 	"github.com/plexusone/agent-team-prd/pkg/scoring"
 	"github.com/plexusone/agent-team-prd/pkg/views"
-	"github.com/plexusone/mcpkit/runtime"
-	"github.com/grokify/structured-plan/schema"
-	"github.com/modelcontextprotocol/go-sdk/mcp"
 )
 
 const version = "0.2.0"

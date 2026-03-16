@@ -1,8 +1,8 @@
 package prd
 
 import (
-	"github.com/plexusone/structured-evaluation/evaluation"
 	structuredprd "github.com/grokify/structured-plan/requirements/prd"
+	"github.com/plexusone/structured-evaluation/evaluation"
 )
 
 // DefaultFilename is the standard PRD filename.
