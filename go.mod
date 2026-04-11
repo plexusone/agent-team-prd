@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/fatih/color v1.18.0
 	github.com/grokify/structured-plan v0.9.0
-	github.com/modelcontextprotocol/go-sdk v1.4.1
+	github.com/modelcontextprotocol/go-sdk v1.5.0
 	github.com/plexusone/mcpkit v0.4.0
 	github.com/plexusone/structured-evaluation v0.3.0
 	github.com/spf13/cobra v1.10.2
