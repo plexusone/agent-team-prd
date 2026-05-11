@@ -7,13 +7,13 @@ require (
 	github.com/grokify/structured-plan v0.10.0
 	github.com/modelcontextprotocol/go-sdk v1.6.0
 	github.com/plexusone/mcpkit v0.4.0
-	github.com/plexusone/structured-evaluation v0.3.0
+	github.com/plexusone/structured-evaluation v0.3.1
 	github.com/spf13/cobra v1.10.2
 )
 
 require (
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
-	github.com/buger/jsonparser v1.1.2 // indirect
+	github.com/buger/jsonparser v1.2.0 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/google/jsonschema-go v0.4.3 // indirect
 	github.com/grokify/mogo v0.73.4 // indirect
