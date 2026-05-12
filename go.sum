@@ -19,8 +19,8 @@ github.com/google/jsonschema-go v0.4.3 h1:/DBOLZTfDow7pe2GmaJNhltueGTtDKICi8V8p+
 github.com/google/jsonschema-go v0.4.3/go.mod h1:r5quNTdLOYEz95Ru18zA0ydNbBuYoo9tgaYcxEYhJVE=
 github.com/grokify/mogo v0.73.4 h1:Todlr6dipsFD3zWy8Djod9j6iswN77pe7Q9AOFGdg3E=
 github.com/grokify/mogo v0.73.4/go.mod h1:dq1YdL7IkcA6B8uAFGbKsReX9GWAunIyjl+cTNAenc0=
-github.com/grokify/structured-plan v0.10.0 h1:SR3Uaq7UnkUtV4DSJthIWFIB0eur+kfClWSsM0iwc0A=
-github.com/grokify/structured-plan v0.10.0/go.mod h1:hn8NE1wbpUOBeSvI21JAYGyItuBTrNjqMX6cniVQE2o=
+github.com/grokify/structured-plan v0.10.1 h1:CINy/e3VLADqc1UO9IYhbMN0qjJ3vqMw2LL9/8u/BZc=
+github.com/grokify/structured-plan v0.10.1/go.mod h1:/Qw41j24eE1vKB4SCgCT/u0NwUhN2xuoPFFuFHHUE2A=
 github.com/hashicorp/yamux v0.1.1 h1:yrQxtgseBDrq9Y652vSRDvsKCJKOUD+GzTS4Y0Y8pvE=
 github.com/hashicorp/yamux v0.1.1/go.mod h1:CtWFDAQgb7dxtzFs4tWbplKIe2jSi3+5vKbgIO0SLnQ=
 github.com/huandu/xstrings v1.5.0 h1:2ag3IFq9ZDANvthTwTiqSSZLjDc+BedvHPAp5tJy2TI=
