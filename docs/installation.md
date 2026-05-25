@@ -10,7 +10,7 @@
 The simplest way to install prdtool:
 
 ```bash
-go install github.com/agentplexus/agent-team-prd/cmd/prdtool@latest
+go install github.com/plexusone/agent-team-prd/cmd/prdtool@latest
 ```
 
 This installs the `prdtool` binary to your `$GOPATH/bin` directory.
@@ -20,7 +20,7 @@ This installs the `prdtool` binary to your `$GOPATH/bin` directory.
 Clone and build both the CLI and MCP server:
 
 ```bash
-git clone https://github.com/agentplexus/agent-team-prd.git
+git clone https://github.com/plexusone/agent-team-prd.git
 cd agent-team-prd
 
 # Build CLI
@@ -80,7 +80,7 @@ Place the binary in a location accessible to your AI assistant. See [Claude Code
 To update to the latest version:
 
 ```bash
-go install github.com/agentplexus/agent-team-prd/cmd/prdtool@latest
+go install github.com/plexusone/agent-team-prd/cmd/prdtool@latest
 ```
 
 Or if building from source:
