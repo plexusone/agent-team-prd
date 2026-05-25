@@ -1,10 +1,10 @@
 # Kiro IDE Integration
 
-Use PRD Tool as a Kiro Power for AI-assisted PRD creation in Kiro IDE.
+Use Agent Team PRD as a Kiro Power for AI-assisted PRD creation in Kiro IDE.
 
 ## Overview
 
-Kiro Powers are capability packages that enhance Kiro IDE with specialized tools. The PRD Tool Power provides:
+Kiro Powers are capability packages that enhance Kiro IDE with specialized tools. The Agent Team PRD Power provides:
 
 - MCP tools for PRD operations
 - Steering files for guided workflows
@@ -19,7 +19,7 @@ The MCP server binary must be installed and available in your PATH.
 **Option A: Install with go install**
 
 ```bash
-go install github.com/agentplexus/agent-team-prd/cmd/prdtool-mcp@latest
+go install github.com/plexusone/agent-team-prd/cmd/prdtool-mcp@latest
 ```
 
 **Option B: Build from source**
@@ -48,7 +48,7 @@ In Kiro IDE:
 3. Enter the GitHub URL:
 
 ```
-https://github.com/agentplexus/agent-team-prd/tree/main/power-prdtool
+https://github.com/plexusone/agent-team-prd/tree/main/power-prdtool
 ```
 
 **Option B: Import from local folder**

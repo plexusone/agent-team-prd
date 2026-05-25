@@ -1,6 +1,6 @@
 # Claude Code Integration
 
-Use PRD Tool with Claude Code via the Model Context Protocol (MCP).
+Use Agent Team PRD with Claude Code via the Model Context Protocol (MCP).
 
 ## Overview
 

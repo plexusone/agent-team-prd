@@ -1,6 +1,6 @@
 # CLI Examples
 
-Common workflows and recipes for using the PRD Tool CLI.
+Common workflows and recipes for using the prdtool CLI.
 
 ## Creating a Complete PRD
 

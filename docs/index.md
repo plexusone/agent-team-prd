@@ -1,6 +1,6 @@
-# PRD Tool
+# Agent Team PRD
 
-PRD Tool is a CLI and AI assistant integration for creating, validating, scoring, and viewing Product Requirements Documents (PRDs) using a canonical JSON schema.
+Agent Team PRD provides CLI tools and AI assistant integrations for creating, validating, scoring, and viewing Product Requirements Documents (PRDs) using a canonical JSON schema.
 
 ## Features
 
@@ -15,13 +15,13 @@ PRD Tool is a CLI and AI assistant integration for creating, validating, scoring
 ### Install
 
 ```bash
-go install github.com/agentplexus/agent-team-prd/cmd/prdtool@latest
+go install github.com/plexusone/agent-team-prd/cmd/prdtool@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/agentplexus/agent-team-prd.git
+git clone https://github.com/plexusone/agent-team-prd.git
 cd agent-team-prd
 go build -o bin/prdtool ./cmd/prdtool
 ```
