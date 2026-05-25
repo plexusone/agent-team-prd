@@ -18,7 +18,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/grokify/structured-plan/schema"
+	"github.com/grokify/prism-roadmap/schema"
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 	"github.com/plexusone/mcpkit/runtime"
 

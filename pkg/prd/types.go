@@ -1,9 +1,9 @@
 // Package prd provides types and operations for Product Requirements Documents.
-// Types are imported from github.com/grokify/structured-plan/requirements/prd.
+// Types are imported from github.com/grokify/prism-roadmap/requirements/prd.
 package prd
 
 import (
-	structuredprd "github.com/grokify/structured-plan/requirements/prd"
+	structuredprd "github.com/grokify/prism-roadmap/requirements/prd"
 )
 
 // PRD is an alias for Document from structured-prd, maintaining backward compatibility.

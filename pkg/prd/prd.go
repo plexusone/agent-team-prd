@@ -1,7 +1,7 @@
 package prd
 
 import (
-	structuredprd "github.com/grokify/structured-plan/requirements/prd"
+	structuredprd "github.com/grokify/prism-roadmap/requirements/prd"
 	"github.com/plexusone/structured-evaluation/evaluation"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/grokify/structured-plan/schema"
+	"github.com/grokify/prism-roadmap/schema"
 	"github.com/spf13/cobra"
 )
 
@@ -13,7 +13,7 @@ var schemaCmd = &cobra.Command{
 	Short: "Display or export the PRD JSON Schema",
 	Long: `Display or export the canonical PRD JSON Schema.
 
-The schema is imported from github.com/grokify/structured-plan
+The schema is imported from github.com/grokify/prism-roadmap
 and represents the source of truth for PRD document structure.
 
 Examples:
