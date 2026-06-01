@@ -7,7 +7,6 @@ require (
 	github.com/grokify/prism-roadmap v0.13.0
 	github.com/modelcontextprotocol/go-sdk v1.6.1
 	github.com/plexusone/mcpkit v0.4.0
-	github.com/plexusone/structured-evaluation v0.5.0
 	github.com/spf13/cobra v1.10.2
 )
 
